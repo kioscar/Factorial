@@ -9,6 +9,8 @@ int main(){
 	int n,m,fact1,fact2;
 	int factorial();
 	
+	printf("\t\tPrograma que calcula el factorial de dos números.");
+	
 	printf("Dame el primer numero: ");
 	scanf("%i",&n);
 	
